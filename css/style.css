@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Padauk&family=Poppins:wght@200&display=swap");
+
+@import url("components/container.css");
+@import url("component/avatar.css"); 
+@import url("component/avatar.css"); 
+
+
+@import url("component/card.css")
+
+
+@import url("component/banner.css"); 
+
+
+
+
+body {
+	font-family: 'Padauk', sans-serif;
+	font-size: 19px;
+	background: #9BA4B4;
+}
+
+
+h1,h2,h3 {
+	font-family: 'Poppins', sans-serif;
+	font-weight: bold;
+	font-size: 18px; 
+	color: #14274E;
+	margin: 20px auto;
+
+}
+
+
+a {
+	text-decoration: : none;
+}
+
+#logo {
+	width: 170px;
+	border-radius: 15px; 
+}
+ 
+
+
+
